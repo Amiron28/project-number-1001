@@ -130,15 +130,20 @@ h1 {
     margin-top: 100px;
 }
 
+.thirdPage {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin: 30px 0 0 0;
+}
+
 .howItWorksStep1 {
-    width: 300px;
     background: #FFFFFF;
     box-shadow: 0px 0px 10px #c4c4c4c4;
     border-radius: 0px;
 }
 
 .note {
-    margin-top: 40px;
     height: 12px;
     background-color: #5D35FC;
 }
@@ -172,4 +177,14 @@ h1 {
 
 .mainContent img {
     margin: 42px 0 50px 0;
+}
+
+.note2 {
+    height: 12px;
+    background-color: #F3895B;
+}
+
+.note3 {
+    height: 12px;
+    background-color: #4AC3A5;
 }
