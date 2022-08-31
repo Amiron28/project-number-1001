@@ -191,3 +191,28 @@ h1 {
     height: 12px;
     background-color: #4AC3A5;
 }
+
+.item {
+    background-color: #31C5A1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 130px 0 130px 0;
+    margin: 30px 0 0 0;
+}
+
+.innerElementItem {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.innerElementItem p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    color: #FFFFFF;
+    text-align: center;
+    margin: 20px 0 0 0;
+}
