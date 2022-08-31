@@ -91,3 +91,8 @@ header {
 .additionForApple p:nth-child(1) {
     color: #545659;
 }
+
+.secondPage {
+    margin-top: 140px;
+    background-color: yellow;
+}
