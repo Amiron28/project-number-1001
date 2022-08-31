@@ -57,14 +57,15 @@ header {
 }
 
 .loadingFromGooglePlay {
-    width: 200px;
+    width: 150px;
     height: 50px;
     background-color: grey;
     border-radius: 8px;
+    display: flex;
 }
 
 .loadingFromAppStore {
-    width: 200px;
+    width: 150px;
     height: 50px;
     background-color: grey;
     border-radius: 8px;
