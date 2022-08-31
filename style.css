@@ -23,7 +23,7 @@ header {
 }
 
 .container {
-    width: 85%;
+    width: 70%;
     margin: 0 auto;
 }
 
@@ -94,5 +94,28 @@ header {
 
 .secondPage {
     margin-top: 140px;
-    background-color: yellow;
+}
+
+.textSecondPage p:nth-child(1) {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 50px;
+    color: #333333;
+}
+
+.textSecondPage p:nth-child(2) {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    color: #333333;
+    margin-top: 32px;
+}
+
+.secondPage {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 0 0 0;
 }
