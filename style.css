@@ -7,6 +7,21 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
+.excavation {
+    position: absolute;
+    width: 20px;
+    height: 80px;
+    top: 100px;
+    background-color: #39CDCC;
+    border-radius: 0px 6px 6px 0px;
+    transform: rotate(90deg);
+
+}
+
+.excavation p {
+    transform: rotate(90deg);
+}
+
 header {
     width: 100%;
     padding: 25px 100px 25px 100px;
