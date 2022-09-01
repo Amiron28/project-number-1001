@@ -216,3 +216,13 @@ h1 {
     text-align: center;
     margin: 20px 0 0 0;
 }
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 160px;
+    padding: 50px ;
+    width: 100%;
+    background-color: yellow;
+}
