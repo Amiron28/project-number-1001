@@ -11,6 +11,8 @@
     position: absolute;
     background-color: #39CDCC;
     border-radius: 0px 6px 6px 0px;
+    padding: 16px;
+    top: 100px;
 }
 
 .excavation p {
