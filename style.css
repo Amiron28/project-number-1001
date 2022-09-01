@@ -227,3 +227,19 @@ footer {
     line-height: 30px;
     color: #333333;
 }
+
+.get-it-on {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.innerElementItem {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
