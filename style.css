@@ -13,6 +13,7 @@ header {
     padding: 25px 100px 25px 100px;
     display: flex;
     position: fixed;
+    background-color: #c4c4c4c4;
 }
 
 .tabs {
@@ -219,10 +220,17 @@ h1 {
 
 footer {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: center;
     gap: 160px;
-    padding: 50px ;
+    padding: 50px;
     width: 100%;
-    background-color: yellow;
+}
+
+.firstColumnInFooter p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 30px;
+    color: #333333;
 }
